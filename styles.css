@@ -1,0 +1,170 @@
+/*styling for home page*/
+#home{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#home>h1{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
+#home>p{
+font-family:sans-serif;
+width : 300px;
+text-align:center;
+line-height:2;
+padding-left:500px;
+
+}
+#home>a{
+display:flex;
+ font-family:sans-serif;
+width : 300px;
+line-height:2;
+padding-left:500px; 
+}
+#home>h4{
+font-family:sans-serif;
+width : 300px;
+text-align:center;
+line-height:2;
+padding-left:500px;
+}
+
+footer
+{
+text-align:center;
+padding-left : 50;
+}
+/*locations styling*/
+#cpt{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#cpt>h1{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
+#dbn{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#dbn>h1{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
+#gq{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#gq>h1{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
+#jhb{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#jhb>h1{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
+#pta{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#pta>h1{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
+#form{
+background-color:teal;
+margin-left:10px ;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:10px;
+border-style: solid;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-top:30px;
+font-family:Times;
+}
+#home>h2{
+color:teal;
+text-align:center;
+font-size:50px;
+background-color: white;
+width = 100px;
+}
